@@ -82,7 +82,7 @@
    </div>
 </header>
 
-<img src="img/logo.jpg" width=1280px alt="Image">
+<img src="logo.jpg" width=1280px alt="Image">
 <br>
 
 <br>
